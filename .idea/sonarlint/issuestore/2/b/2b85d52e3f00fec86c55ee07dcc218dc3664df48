@@ -1,0 +1,5 @@
+
+Lsquid:S2970"0Add one or more 'assertThat' before 'assertAll'.(ÌÂÔÀüÿÿÿÿ
+;squid:S2925;"$Remove this use of "Thread.sleep()".(¬Æ„°
+;squid:S2925/"$Remove this use of "Thread.sleep()".(¬Æ„°
+;squid:S29255"$Remove this use of "Thread.sleep()".(¬Æ„°
